@@ -1,0 +1,11 @@
+siteTitle = "Ivan Storck's Blog"
+siteDescr = "Programmer, Teacher, Entrpreneur based in Seattle, WA, USA."
+siteAuthor = "Ivan Storck"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "https://twitter.com/ivanoats"
+siteGithubUrl = "https://github.com/ivanoats"
+siteEmailUrl = "mailto:ivanoats@gmail.com"
+siteRssUrl = "#"
+
+linkPrefix = "/"
