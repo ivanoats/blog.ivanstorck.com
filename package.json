@@ -4,7 +4,7 @@
   "description": "Gatsby blog",
   "main": "n/a",
   "scripts": {
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "build": "npm run clean & gatsby build & copy",
     "clean:public": "rm -rf public",
     "clean": "npm run clean:public",
@@ -20,7 +20,7 @@
     "ivanoats"
   ],
   "author": "Ivan Storck <ivanoats@gmail.com>",
-  "license": "MIT",
+  "license": "see LICENSE",
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-es2015": "^6.9.0",
@@ -42,6 +42,7 @@
     "underscore.string": "^3.2.3"
   },
   "devDependencies": {
+    "autoprefixer": "^6.3.7",
     "babel-core": "^6.11.4",
     "babel-loader": "^6.2.4",
     "babel-preset-react-hmre": "^1.1.1",
@@ -51,18 +52,18 @@
     "eslint-plugin-import": "^1.12.0",
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^6.0.0",
+    "file-loader": "^0.9.0",
     "gh-pages": "^0.11.0",
     "image-webpack-loader": "^2.0.0",
+    "lost": "^7.0.3",
     "null-loader": "^0.1.1",
     "postcss-loader": "^0.9.1",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.2.10",
-    "style-loader": "^0.13.1",
-    "webpack": "^1.13.1",
-    "autoprefixer": "^6.3.7",
-    "file-loader": "^0.9.0",
     "rucksack-css": "^0.8.5",
-    "lost": "^7.0.3"
+    "shelljs": "^0.7.4",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
   }
 }
