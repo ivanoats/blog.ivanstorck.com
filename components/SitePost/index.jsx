@@ -9,8 +9,13 @@ import '../../static/css/highlight.css'
 
 class SitePost extends React.Component {
   static propTypes = {
-    post: React.PropTypes.object.isRequired,
-    pages: React.PropTypes.array,
+    route: React.PropTypes.shape({
+      name: React.PropTypes.string,
+    }),
+    post: React.PropTypes.shape({
+      title: React.PropTypes.string,
+      slug: React.PropTypes.string,
+    }).isRequired,
   }
   render () {
     const { route } = this.props

@@ -1,5 +1,5 @@
 {
-  "extends": "eslint-config-airbnb",
+  "extends": [ "plugin:react/recommended", "eslint-config-airbnb"],
   "settings": {
     "ecmascript": 7
   },
@@ -20,6 +20,7 @@
     "space-infix-ops": [0],
     "react/prefer-es6-class": [0],
     "react/prefer-stateless-function": [0],
+    "react/require-extension": [0],
     "import/no-unresolved": [0],
     "global-require": [0],
   },
