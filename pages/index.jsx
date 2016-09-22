@@ -10,7 +10,7 @@ import SitePost from '../components/SitePost'
 import SiteSidebar from '../components/SiteSidebar'
 
 class SiteIndex extends React.Component {
-    render() {
+    render () {
         const pageLinks = []
         // Sort pages.
         const sortedPages = sortBy(this.props.route.pages, (page) => access(page, 'data.date')
