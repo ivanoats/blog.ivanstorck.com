@@ -3,6 +3,7 @@ title: "Rapid Growth Visualized: The History of Node.js via Git Commits"
 date: 2016-09-12
 layout: post
 tags: javascript, nodejs, git, visualization, gource
+description: "*Node.js usage has been expanding rapidly. I took a look at the growth of the Node.js project through the lens of a few Git Visualization tools.*"
 ---
 *Node.js usage has been expanding rapidly. I took a look at the growth of the Node.js project through the lens of a few Git Visualization tools.*
 

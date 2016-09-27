@@ -3,6 +3,7 @@ title: "5 Ways to Manage Front-End Assets in Rails"
 date: 2016-09-12
 layout: post
 tags: javascript, rails, assets
+description: "*Ready to have the latest and greatest HTML5, JavaScript and CSS3 components like Angular and Ember in your Ruby on Rails application?*"
 ---
 *Ready to have the latest and greatest HTML5, JavaScript and CSS3 components like Angular and Ember in your Ruby on Rails application?*
 

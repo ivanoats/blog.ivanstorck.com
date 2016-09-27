@@ -3,6 +3,7 @@ title: "An Easier Way to Call an API From Your Web App"
 date: 2016-09-12
 layout: post
 tags: full-stack, aerobatic, api, cors, express, proxy
+description: "Call APIs on the internet from your front-end app w/out worrying about cross origin resource sharing (CORS) policies or leaking sensitive keys to the client"
 ---
 *This post is written by Ivan Storck, Director of Developer Relations at Aerobatic and is a cross-post from the Bitbucket Blog at [https://blog.bitbucket.org](https://blog.bitbucket.org)*
 

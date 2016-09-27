@@ -3,6 +3,7 @@ title: "Ember, Part 3: 10 resources for getting (and staying) up to date"
 date: 2016-09-12
 layout: post
 tags: javascript, ember, frameworks
+description: "Stay on top of changes in [Ember](http://emberjs.com/) with these resources."
 ---
 Stay on top of changes in [Ember](http://emberjs.com/) with these resources.
 

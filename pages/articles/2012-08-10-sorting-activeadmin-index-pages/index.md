@@ -3,6 +3,7 @@ title: "Sorting ActiveAdmin Index Pages"
 date: 2016-09-12
 layout: post
 tags: rails, webdev, activeadmin, oo
+description: "Here's how I got my list of"
 ---
 Here's how I got my list of
 [Philosoraptors](http://knowyourmeme.com/memes/philosoraptor) sorted in a

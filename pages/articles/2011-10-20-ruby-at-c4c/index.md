@@ -3,6 +3,7 @@ title: "Ruby at C4C"
 date: 2016-09-12
 layout: post
 tags: c4c, ruby, cloudfoundry, spreecommerce, octopress, refinerycms
+description: "I gave a presentation at the UW web council on our plans for using the Ruby programming language at the Center for Commercialization."
 ---
 I gave a presentation at the UW web council on our plans for using the Ruby programming language at the Center for Commercialization.
 

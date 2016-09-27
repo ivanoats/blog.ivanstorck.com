@@ -3,6 +3,7 @@ title: "Example Blog Layout and Tutorial"
 date: 2016-09-12
 layout: post
 tags: javascript, nodejs, yeoman, browserify
+description: "*Starting a blog to share your new coding knowledge with the world? Use this tutorial to get started.*"
 ---
 *Starting a blog to share your new coding knowledge with the world? Use this tutorial to get started.*
 

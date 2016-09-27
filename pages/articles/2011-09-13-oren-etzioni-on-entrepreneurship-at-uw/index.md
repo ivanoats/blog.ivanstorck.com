@@ -3,6 +3,7 @@ title: "Oren Etzioni on Entrepreneurship at UW"
 date: 2016-09-12
 layout: post
 tags: uw, entrepreneurship, compsci, c4c, events
+description: "Notes from his lecture today. Check out the entire [lecture series](http://depts.washington.edu/uwc4c/lectures/)."
 ---
 Notes from his lecture today. Check out the entire [lecture series](http://depts.washington.edu/uwc4c/lectures/).
 

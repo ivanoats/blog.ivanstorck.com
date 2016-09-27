@@ -3,6 +3,7 @@ title: "How to use exponents in PureScript"
 date: 2016-09-12
 layout: post
 tags: purescript, math, exponent, ^
+description: "I'm doing the exercises for [PureScript By Example](https://leanpub.com/purescript) and I needed to raise a number to a power. (*exponentiate: to use an exponent*). This was not obvious to me. A couple of hints:"
 ---
 I'm doing the exercises for [PureScript By Example](https://leanpub.com/purescript) and I needed to raise a number to a power. (*exponentiate: to use an exponent*). This was not obvious to me. A couple of hints:
 

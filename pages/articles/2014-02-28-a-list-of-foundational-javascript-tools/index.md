@@ -3,6 +3,7 @@ title: "A List of Foundational JavaScript  Tools"
 date: 2016-09-12
 layout: post
 tags: javascript, mind-map, tools
+description: "*In collaboration with Sarah Fischer and Kalina Wu*"
 ---
 *In collaboration with Sarah Fischer and Kalina Wu*
 

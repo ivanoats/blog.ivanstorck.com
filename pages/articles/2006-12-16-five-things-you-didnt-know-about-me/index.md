@@ -3,6 +3,7 @@ title: "Five things you didn't know about me"
 date: 2016-09-12
 layout: post
 tags: sustainability, ivanenviroman
+description: "<p>Ok, I've been reading <a href=\"http://evelynrodriguez.typepad.com/\" title=\"Evelyn Rodriguez\">Crossroads Dispatches</a> (one of the blogs I read first) and wondering when I would get tagged with the five things you don't know about me meme. And then it hits my office mate <a href=\"http://www.horsepigcow.com/\">Tara Hunt</a>. I start reading her entry and wonder again when or if it will happen to me. And then, the very last words of her post are my name! So here they are:</p>"
 ---
 <p>Ok, I've been reading <a href="http://evelynrodriguez.typepad.com/" title="Evelyn Rodriguez">Crossroads Dispatches</a> (one of the blogs I read first) and wondering when I would get tagged with the five things you don't know about me meme. And then it hits my office mate <a href="http://www.horsepigcow.com/">Tara Hunt</a>. I start reading her entry and wonder again when or if it will happen to me. And then, the very last words of her post are my name! So here they are:</p>
 <ol>

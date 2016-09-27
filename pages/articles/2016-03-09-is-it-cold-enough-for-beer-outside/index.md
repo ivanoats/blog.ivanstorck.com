@@ -3,6 +3,7 @@ title: "Is it Cold Enough for Beer Outside?"
 date: 2016-09-12
 layout: post
 tags: aerobatic, beer, api, javascript
+description: "<img src=\"//www.aerobatic.com/media/beers.jpg\" style=\"max-width: 100%; margin-left: 1em; max-height: 15em; float:right\">"
 ---
 <img src="//www.aerobatic.com/media/beers.jpg" style="max-width: 100%; margin-left: 1em; max-height: 15em; float:right">
 

@@ -3,6 +3,7 @@ title: "Setting up Secure Websites Just Got Much Easier"
 date: 2016-09-12
 layout: post
 tags: aerobatic, ssl, certificates
+description: "Setting up secure websites has been a complex process. It involves arcane commands typed into a terminal screen. [Aerobatic](https://www.aerobatic.com), an Internet startup, devised a way to provision and deploy certificates via a few clicks. All websites must encrypt customer data with an SSL certificate. The green padlock in a browser's address bar is an important trust signal to show site visitors."
 ---
 Setting up secure websites has been a complex process. It involves arcane commands typed into a terminal screen. [Aerobatic](https://www.aerobatic.com), an Internet startup, devised a way to provision and deploy certificates via a few clicks. All websites must encrypt customer data with an SSL certificate. The green padlock in a browser's address bar is an important trust signal to show site visitors.
 

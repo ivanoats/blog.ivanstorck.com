@@ -3,6 +3,7 @@ title: "Open Source and Sustainablility"
 date: 2016-09-12
 layout: post
 tags: sustainability, ivanenviroman, open-source
+description: "<strong>Using the Creative Commons to Solve the Tragedy of the Commons.</strong>"
 ---
 <strong>Using the Creative Commons to Solve the Tragedy of the Commons.</strong>
  

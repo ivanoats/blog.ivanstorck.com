@@ -3,6 +3,7 @@ title: "Epic Install Post is Epic"
 date: 2016-09-12
 layout: post
 tags: vim, macosx, install, brew, nvm, chruby, solarized
+description: "*How I Set Up My Mac for Development*"
 ---
 *How I Set Up My Mac for Development*
 

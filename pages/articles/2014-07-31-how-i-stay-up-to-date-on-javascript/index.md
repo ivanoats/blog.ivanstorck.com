@@ -3,6 +3,7 @@ title: "How I stay up to date on JavaScript"
 date: 2016-09-12
 layout: post
 tags: javascript, presentations, slides, resources
+description: "This post was originally a [Slide Deck](http://ivanoats.github.io/how_i_stay_up_to_date_on_js/), which you can still view."
 ---
 This post was originally a [Slide Deck](http://ivanoats.github.io/how_i_stay_up_to_date_on_js/), which you can still view.
 

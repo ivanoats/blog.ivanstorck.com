@@ -3,6 +3,7 @@ title: "An Easy Way to Make New Elm Apps"
 date: 2016-09-12
 layout: post
 tags: webdev, front-end, elm, brunch, webapps
+description: "#### And even if you don't do Elm, try Brunch."
 ---
 #### And even if you don't do Elm, try Brunch.
 

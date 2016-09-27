@@ -3,6 +3,7 @@ title: "How to add Sitemap.xml to a GatsbyJS site"
 date: 2016-09-12
 layout: post
 tags: gatsby, javascript, seo
+description: "A sitemap is a file where you can list the web pages of your site to tell Google and other search engines about the organization of your site content. Search engine web crawlers like Googlebot read this file to more intelligently crawl your site."
 ---
 A sitemap is a file where you can list the web pages of your site to tell Google and other search engines about the organization of your site content. Search engine web crawlers like Googlebot read this file to more intelligently crawl your site.
 

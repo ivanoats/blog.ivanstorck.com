@@ -3,6 +3,7 @@ title: "Want to Increase Gender Diversity? Encourage Flexible Schedules"
 date: 2016-09-12
 layout: post
 tags: equality, part-time, work, diversity, gender
+description: "In order to truly get the diverse teams we are looking for, we need to pivot on our definition of success, and reward part-time work. Perhaps especially for Men."
 ---
 In order to truly get the diverse teams we are looking for, we need to pivot on our definition of success, and reward part-time work. Perhaps especially for Men.
 

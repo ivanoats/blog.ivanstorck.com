@@ -3,6 +3,7 @@ title: "U.S. Junk Mail Accounts for One Third of All World Mail!"
 date: 2016-09-12
 layout: post
 tags: sustainability
+description: "<p>More than 100,000,000,000 pieces of junk mail are delivered each year (that’s more than 800 pieces per household). The greenhouse gas emissions resulting from the manufacturing of the 6.5 million tons of paper required for junk mail annually is equivalent to the greenhouse gas emissions of 3.7 million cars.</p>"
 ---
 <p>More than 100,000,000,000 pieces of junk mail are delivered each year (that’s more than 800 pieces per household). The greenhouse gas emissions resulting from the manufacturing of the 6.5 million tons of paper required for junk mail annually is equivalent to the greenhouse gas emissions of 3.7 million cars.</p>
 

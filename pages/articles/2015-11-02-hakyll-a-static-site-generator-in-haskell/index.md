@@ -3,6 +3,7 @@ title: "Hakyll, a static site generator in Haskell"
 date: 2016-09-12
 layout: post
 tags: static, aerobatic, hakyll, haskell
+description: "Love functional programming? Want to get started with Haskell? Try out Hakyll, a static site generator."
 ---
 [Hakyll](http://jaspervdj.be/hakyll/) is a Haskell tool for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is highly configurable, with its own Domain Specific Language. If you need something more than Markdown support, say, TeX, or need to write your own compilation rules, it's a powerful tool.
 

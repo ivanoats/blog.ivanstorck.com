@@ -3,6 +3,7 @@ title: "Students' Top 5 Resources For Learning AngularJS"
 date: 2016-09-12
 layout: post
 tags: javascript, angular, learning, tutorials
+description: "Here are our [Code Fellows](http://www.codefellows.org) instructor and students' favorite resources for learning Angular JS beyond the classroom:"
 ---
 Here are our [Code Fellows](http://www.codefellows.org) instructor and students' favorite resources for learning Angular JS beyond the classroom:
 

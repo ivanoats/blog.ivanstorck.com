@@ -3,6 +3,7 @@ title: "First Post"
 date: 2016-09-12
 layout: post
 tags: process, blogging, uw
+description: "I'll be blogging here about programming Ruby (and Rails), fixing PHP, and Mac OS X and Ubuntu sysadmin."
 ---
 I'll be blogging here about programming Ruby (and Rails), fixing PHP, and Mac OS X and Ubuntu sysadmin.
 

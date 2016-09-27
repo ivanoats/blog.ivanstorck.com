@@ -3,6 +3,7 @@ title: "Small is Beautiful (for me)"
 date: 2016-09-12
 layout: post
 tags: sustainability, ivanenviroman
+description: "About a month ago, I found a place to live, by myself. It's a cute studio on Telegraph Hill. Yes, there really are wild parrots here. As you can see from the picture of the kitchen - wait, actually that's practically the whole apartment - everything is small. The fridge is just under the countertop. I haven't seen one this small since I lived in London in the '80s and the milkman delivered pints of milk, OJ, and eggs.  A small fridge for me actually means fresher food, since I can't let things rot away in the \"crisper\", or \"rotter\" as my friend Arthur calls it. "
 ---
 About a month ago, I found a place to live, by myself. It's a cute studio on Telegraph Hill. Yes, there really are wild parrots here. As you can see from the picture of the kitchen - wait, actually that's practically the whole apartment - everything is small. The fridge is just under the countertop. I haven't seen one this small since I lived in London in the '80s and the milkman delivered pints of milk, OJ, and eggs.  A small fridge for me actually means fresher food, since I can't let things rot away in the "crisper", or "rotter" as my friend Arthur calls it. 
 

@@ -3,6 +3,7 @@ title: "About Ivan"
 date: 2016-09-12
 layout: post
 tags: aboutme, ivanstorck, ivanoats
+description: "Please check out the [main site](http://www.ivanstorck.com) for more background information."
 ---
 Please check out the [main site](http://www.ivanstorck.com) for more background information.
 

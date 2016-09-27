@@ -3,6 +3,7 @@ title: "Interviewed on Carbon Offsets Daily"
 date: 2016-09-12
 layout: post
 tags: 
+description: "Originally posted [here](http://www.carbonoffsetsdaily.com/2008/07/interview-sus-1.html) but no longer available there."
 ---
 Originally posted [here](http://www.carbonoffsetsdaily.com/2008/07/interview-sus-1.html) but no longer available there.
 
