@@ -1,7 +1,9 @@
 import React from 'react'
 import moment from 'moment'
 import { Link } from 'react-router'
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { prefixLink } from 'gatsby-helpers'
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { config } from 'config'
 import ReadNext from '../ReadNext'
 import './style.css'
@@ -20,9 +22,11 @@ class SitePost extends React.Component {
   render () {
     const { route } = this.props
     const post = route.page.data
+    console.log('FKSHdjlkfgsdkjghsfdkjghsfg')
     const home = (
       <div>
-        <Link className="gohome" to={prefixLink('/')}> All Articles
+        <Link className="gohome" to={prefixLink('/')}>
+          All Articles
         </Link>
       </div>
     )
@@ -44,7 +48,8 @@ class SitePost extends React.Component {
             <p>
               { config.siteDescr }
               <a href={config.siteTwitterUrl}>
-                <br /> <strong>{ config.siteAuthor }</strong> on Twitter</a>
+                <br />
+                <strong>{ config.siteAuthor }</strong> on Twitter</a>
             </p>
           </div>
         </div>

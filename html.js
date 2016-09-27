@@ -1,5 +1,6 @@
 import React from 'react'
 import DocumentTitle from 'react-document-title'
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { prefixLink } from 'gatsby-helpers'
 
 const BUILD_TIME = new Date().getTime()
