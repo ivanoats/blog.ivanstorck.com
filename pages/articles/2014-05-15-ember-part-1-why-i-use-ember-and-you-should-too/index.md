@@ -1,6 +1,6 @@
 ---
 title: "Ember, Part 1: Why I Use Ember and You Should Too"
-date: 2016-09-12
+date: 2014-05-15
 layout: post
 tags: ember, frameworks, javascript
 description: "Here are some of the reasons why I prefer [Ember](http://emberjs.com/) as a front-end development framework."

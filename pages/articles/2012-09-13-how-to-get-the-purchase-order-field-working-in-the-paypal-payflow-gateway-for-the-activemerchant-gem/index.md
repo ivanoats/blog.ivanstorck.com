@@ -1,6 +1,6 @@
 ---
 title: "How to Get the Purchase Order Field Working in the PayPal Payflow Gateway for the ActiveMerchant gem"
-date: 2016-09-12
+date: 2012-09-13
 layout: post
 tags: rails, ruby, webdev, paypal, activemerchant
 description: "This is pretty obscure, but if you need to fill out the PONUM (Purchase Order) field while communicating with the PayPal Payflow gateway, here's how to ensure the info gets transmitted to PayPal. It's not well documented in either the PayPal or ActiveMerchant documentation."

@@ -1,6 +1,6 @@
 ---
 title: "Making MacVim Pretty"
-date: 2016-09-12
+date: 2012-01-13
 layout: post
 tags: editors, vim, programming, macvim
 description: "The holy editor wars. Almost everyone has their favorite, and your colleague, conference mate, or cellmate will rabidly talk your ear off about one editor versus another. I have to admit, I bounce back and forth between TextMate and MacVim, and am closely watching my new up and coming favorite, [Vico](http://vicoapp.com)."

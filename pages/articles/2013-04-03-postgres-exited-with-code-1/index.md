@@ -1,6 +1,6 @@
 ---
 title: "Postgres Exited with code: 1"
-date: 2016-09-12
+date: 2013-04-03
 layout: post
 tags: postgres, webdev, macosx, database, homebrew
 ---

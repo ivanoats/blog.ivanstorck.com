@@ -1,6 +1,6 @@
 ---
 title: "Vico Editor Combines Best of TextMate and Vim"
-date: 2016-09-12
+date: 2011-11-23
 layout: post
 tags: ruby, editors, rspec, vim, textmate
 description: "**Update:** Vico didn't amount to much but it was a cool idea. If you are using Sublime Text now, check out the [Vintageous](https://github.com/guillermooo/Vintageous) plugin."

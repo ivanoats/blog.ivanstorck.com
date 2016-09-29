@@ -1,6 +1,6 @@
 ---
 title: "How to Host a NodeJS App on an EC2 Ubuntu Server"
-date: 2016-09-12
+date: 2014-05-13
 layout: post
 tags: javascript, ec2, amazon, nodejs
 description: "*This post takes you through the process of setting up your first server on an Amazon Elastic Compute Cloud (EC2) Ubuntu Server.*"

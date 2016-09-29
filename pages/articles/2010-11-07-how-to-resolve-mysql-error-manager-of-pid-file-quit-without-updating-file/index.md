@@ -1,6 +1,6 @@
 ---
 title: "How to resolve MySQL: ERROR! Manager of pid-file quit without updating file"
-date: 2016-09-12
+date: 2010-11-07
 layout: post
 tags: 
 description: "This probably only applies if you are setting up MySQL via homebrew on your mac."

@@ -1,6 +1,6 @@
 ---
 title: "The Four Directions of Project Management"
-date: 2016-09-12
+date: 2005-10-17
 layout: post
 tags: 
 ---

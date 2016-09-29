@@ -1,6 +1,6 @@
 ---
 title: "How to host your static web site with HexoJS"
-date: 2016-09-12
+date: 2015-10-19
 layout: post
 tags: javascript, webdev, static, hexo
 ---

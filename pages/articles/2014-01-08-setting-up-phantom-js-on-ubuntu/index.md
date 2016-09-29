@@ -1,6 +1,6 @@
 ---
 title: "Setting up Phantom.js on Ubuntu"
-date: 2016-09-12
+date: 2014-01-08
 layout: post
 tags: javascript, ubuntu, phantomjs
 ---

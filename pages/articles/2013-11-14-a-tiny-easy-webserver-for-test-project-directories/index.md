@@ -1,6 +1,6 @@
 ---
 title: "A Tiny Easy Webserver for Test Project Directories"
-date: 2016-09-12
+date: 2013-11-14
 layout: post
 tags: javascript, ruby, webdev, webrick
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ember, Part 2: Getting started"
-date: 2016-09-12
+date: 2014-06-16
 layout: post
 tags: javascript, ember, frameworks
 description: "Here is the quickest way to get started with [Ember](http://emberjs.com/)."

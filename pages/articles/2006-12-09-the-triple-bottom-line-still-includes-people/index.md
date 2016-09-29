@@ -1,6 +1,6 @@
 ---
 title: "The Triple Bottom Line Still Includes People"
-date: 2016-09-12
+date: 2006-12-09
 layout: post
 tags: sustainability, ivanenviroman
 description: "![Wal Mart's three legged stool is unbalanced](https://photos-3.dropbox.com/t/2/AACCA6DXOyYFwk0yceDJNWelPiYQIY0xVTuIyDL53UVyiA/12/243143/png/32x32/1/1442095200/0/2/Screenshot%202015-09-12%2013.25.06.png/CMfrDiABIAIgAyAEIAUgBiAHKAEoAigH/RKmEa5RchyicW9jlI-i_7PoZDLK5GsQatqkwI00Z4j8?size=1024x768&size_mode=2)"

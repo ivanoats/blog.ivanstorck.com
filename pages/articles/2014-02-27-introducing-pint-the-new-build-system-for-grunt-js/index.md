@@ -1,6 +1,6 @@
 ---
 title: "Introducing Pint, the new build system for Grunt.js"
-date: 2016-09-12
+date: 2014-02-27
 layout: post
 tags: javascript, pint, grunt, build-tools
 description: "*Organize your build into small, testable pieces with Pint, a new dependancy-aware wrapper for Grunt.js. This interview with Pint creator Eric Baer describes why he developed Pint and how it's relevant for JavaScript developers.*"

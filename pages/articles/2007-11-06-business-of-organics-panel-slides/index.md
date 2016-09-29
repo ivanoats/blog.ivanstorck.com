@@ -1,6 +1,6 @@
 ---
 title: "Business of Organics Panel Slides"
-date: 2016-09-12
+date: 2007-11-06
 layout: post
 tags: slides, sustainability, organic
 description: "<iframe src=\"//www.slideshare.net/slideshow/embed_code/key/GyEsDByq0yvnwM\" width=\"425\" height=\"355\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen> </iframe> <div style=\"margin-bottom:5px\"> <strong> <a href=\"//www.slideshare.net/ivanoats/b-o-o-102107\" title=\"B O O 102107\" target=\"_blank\">B O O 102107</a> </strong> from <strong><a href=\"//www.slideshare.net/ivanoats\" target=\"_blank\">Ivan Storck</a></strong> </div>"

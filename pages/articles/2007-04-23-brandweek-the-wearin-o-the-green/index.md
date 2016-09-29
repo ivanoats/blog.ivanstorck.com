@@ -1,6 +1,6 @@
 ---
 title: "Brandweek: The Wearin' o' the Green"
-date: 2016-09-12
+date: 2007-04-23
 layout: post
 tags: sustainability, press
 description: "<p>Another quote, this time in a <a href=\"http://www.brandweek.com/bw/news/spotlight/article_display.j%0Asp?vnu_content_id=1003574857\">BrandWeek article</a> on Green marketing of organics and clothing:</p>"

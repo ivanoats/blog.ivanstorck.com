@@ -1,6 +1,6 @@
 ---
 title: "Three Battle Tested Ways to Install PostgreSQL"
-date: 2016-09-12
+date: 2013-12-12
 layout: post
 tags: rails, setup, tutorial, postgres, postgresql, installation
 description: "*Having run over 100 students through my Ruby on Rails courses, I've come up with some straight forward ways to install PostgreSQL without too much pain. Here is how I do it:*"

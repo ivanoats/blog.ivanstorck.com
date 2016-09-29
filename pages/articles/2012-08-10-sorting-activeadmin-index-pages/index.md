@@ -1,6 +1,6 @@
 ---
 title: "Sorting ActiveAdmin Index Pages"
-date: 2016-09-12
+date: 2012-08-10
 layout: post
 tags: rails, webdev, activeadmin, oo
 description: "Here's how I got my list of"

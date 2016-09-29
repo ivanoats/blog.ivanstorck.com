@@ -1,6 +1,6 @@
 ---
 title: "How to  Set Up Your First Minispec Project from Scratch"
-date: 2016-09-12
+date: 2014-03-01
 layout: post
 tags: ruby, minispec, tdd, tatft
 description: " *Get a simple ruby project going, the right way.*"

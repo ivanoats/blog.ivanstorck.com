@@ -1,6 +1,6 @@
 ---
 title: "Introducing the Full-Stack Modular Boilerplate"
-date: 2016-09-12
+date: 2014-12-11
 layout: post
 tags: javascript, yeoman, webdev, full-stack, modular, boilerplate, code
 description: "**Congrats!** You have received a coding challenge from a potential employer. Or, you have a comittment-free rainy weekend to hack on a new, green-field coding project."

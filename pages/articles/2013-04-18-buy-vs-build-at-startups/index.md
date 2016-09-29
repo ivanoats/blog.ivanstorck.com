@@ -1,6 +1,6 @@
 ---
 title: "Buy vs. Build at Startups"
-date: 2016-09-12
+date: 2013-04-18
 layout: post
 tags: entrepreneurship, buy-build
 ---

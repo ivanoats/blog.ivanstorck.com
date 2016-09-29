@@ -1,6 +1,6 @@
 ---
 title: "10 reasons Why I Like Slack and Think You Should Try It"
-date: 2016-09-12
+date: 2014-06-30
 layout: post
 tags: 
 description: "At Code Fellows, we've cut down on our internal email by taking advantage of a tool called [Slack](https://slack.com/). Here are several reasons why I like it (and think you will, too)."

@@ -1,6 +1,6 @@
 ---
 title: "Testing Ruby on Rails Obfuscated Email Addresses with RSpec"
-date: 2016-09-12
+date: 2011-12-05
 layout: post
 tags: ruby, rspec, email, rubyonrails, testing
 description: "You may have known that Ruby on Rails can protect email addresses that you have on your web pages with the [mail_to](http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html#method-i-mail_to) view helper. But how do you test email obfuscation in your RSpec view tests?"

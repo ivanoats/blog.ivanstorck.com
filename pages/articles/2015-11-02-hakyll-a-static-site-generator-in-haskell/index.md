@@ -1,6 +1,6 @@
 ---
 title: "Hakyll, a static site generator in Haskell"
-date: 2016-09-12
+date: 2015-11-02
 layout: post
 tags: static, aerobatic, hakyll, haskell
 description: "Love functional programming? Want to get started with Haskell? Try out Hakyll, a static site generator."

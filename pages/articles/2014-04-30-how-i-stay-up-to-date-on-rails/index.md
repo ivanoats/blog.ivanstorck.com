@@ -1,6 +1,6 @@
 ---
 title: "How I Stay Up to Date on Rails"
-date: 2016-09-12
+date: 2014-04-30
 layout: post
 tags: ror, rails, ruby
 description: "Find the top books, videos, newsletters, and other resources to stay up on all news for Ruby and Rails."

@@ -1,6 +1,6 @@
 ---
 title: "Move Your Static Sites From Heroku to Aerobatic"
-date: 2016-09-12
+date: 2015-06-17
 layout: post
 tags: git, hosting, static, front-end, aerobatic, heroku, SPA
 ---

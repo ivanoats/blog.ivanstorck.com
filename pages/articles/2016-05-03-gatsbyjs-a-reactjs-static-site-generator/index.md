@@ -1,6 +1,6 @@
 ---
 title: "Hosting GatsbyJS - A React Static Site Generator"
-date: 2016-09-12
+date: 2016-05-03
 layout: post
 tags: gatsby, react, javascript, static, aerobatic
 description: "Gatsby transforms plain text into dynamic blogs and websites using the latest web technologies. It's easy to get started with — and host on Aerobatic. I'll go over why you should consider it, and how to get it up and running quickly with Aerobatic. "

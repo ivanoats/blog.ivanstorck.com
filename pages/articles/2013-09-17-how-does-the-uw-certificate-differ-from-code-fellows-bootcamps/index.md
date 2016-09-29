@@ -1,6 +1,6 @@
 ---
 title: "How does the UW Certificate Differ from Code Fellows Bootcamps?"
-date: 2016-09-12
+date: 2013-09-17
 layout: post
 tags: rails, codefellows, uwpce, code-fellows, codefellowsorg, certificates
 ---

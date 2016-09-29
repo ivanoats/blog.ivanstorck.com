@@ -1,6 +1,6 @@
 ---
 title: "How Evan Moran replaced CSS-HTML-JS with OJJS"
-date: 2016-09-12
+date: 2013-09-15
 layout: post
 tags: ojjs, webdev
 description: "*OJJS introduces the idea that you can do more and code less by using javascript to replace the HTML/CSS/JS system.*"

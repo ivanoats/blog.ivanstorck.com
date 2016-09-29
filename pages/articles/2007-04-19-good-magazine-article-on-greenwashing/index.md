@@ -1,6 +1,6 @@
 ---
 title: "Good Magazine Article on Greenwashing"
-date: 2016-09-12
+date: 2007-04-19
 layout: post
 tags: sustainability, press
 description: "I'm quoted in the April issue of <a href=\"http://www.goodmagazine.com/section/Features/green_is_the_color_of_money\" title=\"Green is the Color of Money\">Good</a> magazine! The article is about separating fact from fiction in green advertising."

@@ -1,6 +1,6 @@
 ---
 title: "DRY Up Your Factory Girl Factories With RSpec and Cucumber"
-date: 2016-09-12
+date: 2011-11-28
 layout: post
 tags: ruby, tdd, rspec, cucumber, dry, BDD
 description: "When I first set up the fixture replacement gem [Factory_Girl](https://github.com/thoughtbot/factory_girl) in my current [Ruby on Rails](http://rubyonrails.org) project, I had two files with the same code in each one, creating the same factory twice. One in [RSpec's](https://www.relishapp.com/rspec) spec/factories directory, and another in [Cucumber's](http://cukes.info/) features/support directory. According to the [Don't Repeat Yourself (DRY)](http://en.wikipedia.org/wiki/Don't_repeat_yourself) principle, this was not ideal. How to fix?"

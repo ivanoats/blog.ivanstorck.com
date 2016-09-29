@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up Your Computer for Full-Stack JavaScript Development"
-date: 2016-09-12
+date: 2014-03-15
 layout: post
 tags: javascript, setup, tutorial
 description: "On day 1 of our Full-Stack JavaScript Development Accelerator, students set up their computers with the programs they will need for the next 8 weeks and beyond. If you are curious about our offerings, or are just getting started in web development, take a look at the programs and tools we use."

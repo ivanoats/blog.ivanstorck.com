@@ -1,6 +1,6 @@
 ---
 title: "Code Fellows adds ReactJS to the JavaScript Development Accelerator"
-date: 2016-09-12
+date: 2014-12-12
 layout: post
 tags: javascript, codefellows, reactjs, reactive, flux
 description: "The pace of change in the JavaScript community is vertiginously fast, like experiencing high g-force turns in a fighter jet. In the past year for our front-end framework choice, we have gone from teaching [BackboneJS](http://backbonejs.org), to [AngularJS](https://angularjs.org), and now we are adding in [ReactJS](http://facebook.github.io/react/). "
